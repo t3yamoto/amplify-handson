@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"amplifyhandson57c1f509": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

@@ -8,7 +8,13 @@
             "DeploymentBucketName": "amplify-handson-test-20191128191210-deployment",
             "UnauthRoleName": "amplify-handson-test-20191128191210-unauthRole",
             "StackName": "amplify-handson-test-20191128191210",
-            "StackId": "arn:aws:cloudformation:us-east-1:675745026595:stack/amplify-handson-test-20191128191210/8af15fa0-11c7-11ea-baa7-0e660dd6b3d4"
+            "StackId": "arn:aws:cloudformation:us-east-1:675745026595:stack/amplify-handson-test-20191128191210/8af15fa0-11c7-11ea-baa7-0e660dd6b3d4",
+            "AmplifyAppId": "d2gb3jmzbe134s"
+        },
+        "categories": {
+            "auth": {
+                "amplifyhandson57c1f509": {}
+            }
         }
     }
 }
